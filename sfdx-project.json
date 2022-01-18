@@ -1,12 +1,12 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "extension-pack-1",
       "default": true
     }
   ],
   "name": "extensionProject1",
-  "namespace": "",
+  "namespace": "khExtPack1",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
 }
