@@ -11,6 +11,13 @@
                     "package": "04t8d000000tDTBAA2"
                 }
             ]
+        },
+        {
+            "path": "force-app",
+            "package": "Packagewithnamespace",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "extensionPackage1",
@@ -19,6 +26,7 @@
     "sourceApiVersion": "52.0",
     "packageAliases": {
         "extensionPackage1": "0Ho8d000000XZIRCA4",
-        "extensionPackage1@0.1.0-1": "04t8d000000xP1gAAE"
+        "extensionPackage1@0.1.0-1": "04t8d000000xP1gAAE",
+        "Packagewithnamespace": "0Ho5j000000oLrQCAU"
     }
 }
