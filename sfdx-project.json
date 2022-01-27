@@ -11,14 +11,23 @@
                     "package": "04t8d000000tDTBAA2"
                 }
             ]
+        },
+        {
+            "path": "force-app",
+            "package": "Test27thPack",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "extensionPackage1",
-    "namespace": "khExtPack1",
+    "namespace": "khCorePack1",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
         "extensionPackage1": "0Ho8d000000XZIRCA4",
-        "extensionPackage1@0.1.0-1": "04t8d000000xP1gAAE"
+        "extensionPackage1@0.1.0-1": "04t8d000000xP1gAAE",
+        "Test27thPack": "0Ho8d000000CaWrCAK",
+        "Test27thPack@0.1.0-1": "04t8d000000tEnzAAE"
     }
 }
