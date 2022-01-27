@@ -1,7 +1,7 @@
 {
     "packageDirectories": [
         {
-            "path": "force-app",
+            "path": "extension-pack-1",
             "package": "packwithnamefinalnew",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
