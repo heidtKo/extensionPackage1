@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>kheidt+copadxdev2@copado.com</contactEmail>
+    <label>Copado DX</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIC8TCCAdkCFGopHpp6bExBuGNXAxKECYRA/nd4MA0GCSqGSIb3DQEBCwUAMDQxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZDb3BhZG8xFDASBgNVBAMMC3d3dy5jb3BhLmRvMCAXDTIxMTAyNTE0MjcwMVoYDzIxMzEwNTAyMTQyNzAxWjA0MQswCQYDVQQGEwJVUzEPMA0GA1UECgwGQ29wYWRvMRQwEgYDVQQDDAt3d3cuY29wYS5kbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOmZB/cP+SOUVKHs2SnkCj+mMLkbPCA9x9onKcLDh3vs1fmIVuewRF+AUzpJyytAHpjghgmtsFM8aXrQ6DifdFbhOcpnbZ0YxkGukiv24cHOGCJB4am9FyC+1eUzvq9dr5mgyueQbcnrM4aoEyE0vXYa9wO94JBpH8OJtOXAv+1xIjEAc5aJkz2jtU3BmQ+Pqa1E8S1K3h2oEF505AgtQQztuvEURZ2JRLBRl80h/Gq16uy+HDMkU8SPWEIPgHX4OImiATOYu7FPrTcZT1LBqeJaVqcFJvbmpkl2HYeFTmAxsoy+740PElhRnjkjQ7iNWRzWhdYxpd8kpdwVeRaytqcCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAHgZIGHDIkIM96hT3fQHxuy85SLM2Sag9hOGjhDmja4wB56winJgX1zbmCu/fUbv2wo8a8US4IHiHijD3SoFeHyWnmX65xO5R0SHhH13ciSlQXVZKlFlR1KjAXz1Kgya66Nk9zbUYGv0pQKxF7SaQPwWvbV1ql7DR9jOCJsX/yoB339PpvVGiEh2Ggnykn9xUGAAFk7RHY2Me5PQg7xIJ8+aN4CzJ61oSrfE8/P27/yS9QZfgqjzH4tQZsyaYrhZ9jGsG6AaQDb4o3fg/95L1mD/CEt6OsvPmimN+NM8Q02OUlvoG+YbkN+jxiz/6i87ZXbUSbq95YLre2tFV2wdrJA==</certificate>
+        <consumerKey>3MVG9z6NAroNkeMnZOchEKaJ02LL9mhYiBU.5AtSeGJx.XJW9zFPPRFRcuF6RYpkdvjfLci_HKtABc.iDoQDF</consumerKey>
+        <isAdminApproved>true</isAdminApproved>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>BYPASS</ipRelaxation>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+    <profileName>System Administrator</profileName>
+    <profileName>Standard User</profileName>
+    <profileName>Standard Platform User</profileName>
+</ConnectedApp>
