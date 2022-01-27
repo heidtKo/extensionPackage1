@@ -1,6 +1,13 @@
 {
     "packageDirectories": [
         {
+            "path": "force-app",
+            "package": "Test27thPack",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        },
+        {
             "path": "extension-pack-1",
             "default": false,
             "package": "extensionPackage1",
@@ -11,14 +18,8 @@
                     "package": "04t8d000000tDTBAA2"
                 }
             ]
-        },
-        {
-            "path": "force-app",
-            "package": "Test27thPack",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": true
         }
+    
     ],
     "name": "extensionPackage1",
     "namespace": "khCorePack1",
