@@ -18,8 +18,14 @@
                     "package": "04t8d000000tDTBAA2"
                 }
             ]
+        },
+        {
+            "path": "force-app",
+            "package": "packwithnamefinalnew",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
-    
     ],
     "name": "extensionPackage1",
     "namespace": "khCorePack1",
@@ -29,6 +35,7 @@
         "extensionPackage1": "0Ho8d000000XZIRCA4",
         "extensionPackage1@0.1.0-1": "04t8d000000xP1gAAE",
         "Test27thPack": "0Ho8d000000CaWrCAK",
-        "Test27thPack@0.1.0-1": "04t8d000000tEnzAAE"
+        "Test27thPack@0.1.0-1": "04t8d000000tEnzAAE",
+        "packwithnamefinalnew": "0Ho8d000000CaX1CAK"
     }
 }
